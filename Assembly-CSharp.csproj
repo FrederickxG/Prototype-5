@@ -53,6 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Challenge 5\Scripts\DestroyObjectX.cs" />
+     <Compile Include="Assets\Challenge 5\Scripts\DifficultyButtonX.cs" />
+     <Compile Include="Assets\Challenge 5\Scripts\GameManagerX.cs" />
+     <Compile Include="Assets\Challenge 5\Scripts\TargetX.cs" />
      <Compile Include="Assets\Course Library\_Source_Files\Scripts\DestroyAfterDelay.cs" />
      <Compile Include="Assets\Course Library\Scripts\DifficultyButton.cs" />
      <Compile Include="Assets\Course Library\Scripts\GameManager.cs" />
